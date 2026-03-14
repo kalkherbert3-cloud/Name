@@ -1,22 +1,3 @@
---[[
-========================================
-
-â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-â•‘          Cypher Spectre â•‘ DeepSight    â•‘  
-â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-
-Script Deobfuscated by Cypher Spectre
-Version: DeepSight 
-
-Author:
-@roman666cabj
-
-========================================
-]]
-
--- Kawatan Duels
-
---// OPTIMIZER FPS (REAL)
 local Lighting = game:GetService("Lighting")
 local optimizerEnabled = false
 local savedLighting = {}
