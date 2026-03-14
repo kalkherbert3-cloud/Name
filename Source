@@ -1,4 +1,4 @@
-local Lighting = game:GetService("Lighting")
+print("local Lighting = game:GetService("Lighting")
 local optimizerEnabled = false
 local savedLighting = {}
 local optimized = {}
@@ -2601,4 +2601,4 @@ toggleBtn.MouseButton1Click:Connect(function()
     else
         TweenService:Create(hub, TweenInfo.new(0.3), {Position = UDim2.new(0,-350,0.5,-HUB_HEIGHT/2)}):Play()
     end
-end)
+end)")
